@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b41032f3-213e-4ecb-a58c-ebb6e9a433e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/next@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/prev@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/fonts/icomoond41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/fonts/icomoone627.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/fonts/icomoone627.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/fonts/icomoone627.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/summernote/summernoted41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/summernote/summernotef534.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/summernote/summernotef534.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/summernote/summernotef534.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/images/backgrounds/user_bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/fonts/icomoond41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/fonts/icomoone627.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/fonts/icomoone627.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/fonts/icomoone627.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/backgrounds/boxed_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/backgrounds/boxed_bg_retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/logo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/01-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/01-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/02-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/02-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/03-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/03-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/04-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/04-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/05-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/05-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/06-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/06-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/07-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/07-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/08-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/08-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/09-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/09-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/10-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/10-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/11-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/11-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/12-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/12-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/services/service-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/services/service-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/services/service-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/services/service-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/signtech.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox/nivo-lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/Command-/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/Command-Shift-/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/Ctrl-/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/Ctrl-Shift-/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/Opera/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/WebKit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/ace/worker/worker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/adobeair/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/applewebkit/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/applewebkit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/components.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/extras/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/fontawesome/styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/glyphicons/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/fonts/icomoone627.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/css/icons/icomoon/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/c3/c3_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/c3/c3_axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/c3/c3_bars_pies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/c3/c3_grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/c3/c3_lines_areas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_hierarchical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_histogram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_simple_interaction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_sortable_horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_sortable_vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_advanced_stacked_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_stacked_normalized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/bars/bars_basic_vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/chords/chord_arcs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/chords/chord_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/chords/chord_chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/chords/chord_tweens.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_difference.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_small_multiples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_spline_transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_advanced_zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_bivariate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_multi_series.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/lines/lines_basic_stacked_nest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/other/bubbles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/other/streamgraph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/other/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/other/waterfall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_arc_tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_entry_animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_multiple_nesting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/donut_update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_arc_tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_entry_animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_multiple_nesting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/pies/pie_update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/sunburst/sunburst_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/sunburst/sunburst_combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/sunburst/sunburst_distortion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/sunburst/sunburst_zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_bracket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_collapsible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_dendrogram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_dendrogram_radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/tree/tree_radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_interactive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_rings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/d3/venn/venn_weighted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_horizontal_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_horizontal_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_horizontal_stacked_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_horizontal_stacked_normalized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_vertical_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_vertical_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_vertical_stacked_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/area/area_vertical_stacked_normalized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_horizontal_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_horizontal_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_horizontal_stacked_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_horizontal_stacked_normalized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_vertical_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_vertical_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_vertical_stacked_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bars/bar_vertical_stacked_normalized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bubble/bubble_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bubble/bubble_horizontal_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bubble/bubble_lollipop_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bubble/bubble_matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/bubble/bubble_vertical_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_horizontal_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_horizontal_multiple_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_horizontal_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_horizontal_single_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_vertical_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_vertical_multiple_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_vertical_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/lines/line_vertical_single_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_legend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/pies/pie_scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_concentric.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/rings/ring_scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/scatter/scatter_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/scatter/scatter_horizontal_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/scatter/scatter_lollipop_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/scatter/scatter_matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/scatter/scatter_vertical_lollipop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_horizontal_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_horizontal_multiple_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_horizontal_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_horizontal_single_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_vertical_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_vertical_multiple_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_vertical_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/dimple/step/step_vertical_single_grouped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/bars_tornados.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/candlesticks_others.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/columns_waterfalls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/combinations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/funnels_chords.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/lines_areas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/pies_donuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/echarts/timeline_option.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/bar_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/column_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bars/histogram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bubbles/bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/bubbles/bubble_gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/area_intervals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/area_stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/area_stepped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/line_intervals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/lines/lines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/other/candlestick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/other/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/other/geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/other/sankey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/other/trendline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/3d_exploded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/donut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/donut_exploded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/donut_rotate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_diff_border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_diff_invert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_diff_opacity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_diff_radius.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_exploded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/pies/pie_rotate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/scatter/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/charts/google/scatter/scatter_diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jasny_bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/effects.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/globalize/cultures/globalize.culture.de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/globalize/cultures/globalize.culture.ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/globalize/globalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/interactions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/touch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/core/libraries/jquery_ui/widgets.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/basic/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/basic/click_event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/basic/coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/basic/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/controls/adding_controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/controls/control_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/controls/control_positioning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/controls/disable_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/drawings/circles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/drawings/polygons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/drawings/polylines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/drawings/rectangles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/layers/bicycling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/layers/fusion_tables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/layers/traffic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/layers/transit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/markers/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/markers/simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/markers/symbols_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/google/markers/symbols_predefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/maps/vector/vector_maps_demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/alpaca_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/alpaca_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/alpaca_controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/animations_css3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/animations_velocity_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/animations_velocity_examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/animations_velocity_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/appearance_draggable_panels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/appearance_panel_heading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/blog_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/chat_layouts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_brown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_danger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_grey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_indigo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_orange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_pink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_primary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_purple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_slate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_success.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_teal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_violet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/colors_warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_dropdowns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_loaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_modals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_navs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_notifications_other.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_notifications_pnotify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_page_header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_popups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/components_thumbnails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/dashboard_boxed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/dashboard_boxed_full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_data_sources.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_autofill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_buttons_flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_buttons_html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_buttons_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_buttons_print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_colvis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_fixed_columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_fixed_header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_key_table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_reorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_row_reorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_extension_select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/datatables_sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/ecommerce_customers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/ecommerce_orders_history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/ecommerce_product_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/editor_ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/editor_code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/editor_summernote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/editor_wysihtml5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extension_blockui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extension_dnd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extension_image_cropper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_context_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_fab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_fullcalendar_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_fullcalendar_formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_idle_timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_session_timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_sliders_ion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_sliders_noui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/extra_trees.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_bootstrap_select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_checkboxes_radios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_controls_extended.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_dual_listboxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_floating_labels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_input_groups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_inputs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_layouts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_selectbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_tags_input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/form_validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/gallery_library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/general_widgets_content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/general_widgets_stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_ac_password.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_cells.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_cols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_custom_checks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/handsontable_types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/internationalization_callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/internationalization_fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/internationalization_on_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/internationalization_switch_direct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/internationalization_switch_query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/invoice_archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/invoice_grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/invoice_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/job_apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/job_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/jqueryui_components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/jqueryui_forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/jqueryui_interactions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/jqueryui_navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/jqueryui_sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/layout_fixed_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/layout_fixed_native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/layout_navbar_hideable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/layout_navbar_hideable_sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/layout_navbar_secondary_fixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/learning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/learning_detailed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/login_validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/mail_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/mail_list_read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/mail_list_write.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navbar_components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navbar_hideable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navbar_multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navbar_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navigation_horizontal_elements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navigation_horizontal_mega.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/navigation_vertical_sizing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/picker_color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/picker_date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/picker_location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/sidebar_components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/sidebar_detached_sticky_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/sidebar_detached_sticky_native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/sidebar_dual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/table_elements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/table_responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/task_detailed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/tasks_grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/tasks_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/timelines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/uploader_bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/uploader_dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/uploader_plupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/user_pages_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/user_pages_profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/user_profile_tabbed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/wizard_form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/wizard_steps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/pages/wizard_stepy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/buttons/hover_dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/buttons/ladda.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/buttons/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/ace/ace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/summernote/summernote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/wysihtml5/locales/bootstrap-wysihtml5.ua-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/wysihtml5/parsers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/wysihtml5/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/editors/wysihtml5/wysihtml5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/extensions/contextmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/extensions/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/extensions/mockjax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/extensions/mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/extensions/session_timeout.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/editable/address.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/editable/editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/alpaca/alpaca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/alpaca/price_format.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/autosize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/duallistbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/formatter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/maxlength.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/passy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/touchspin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/typeahead/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/inputs/typeahead/typeahead.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/selects/bootstrap_multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/selects/bootstrap_select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/selects/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/selects/selectboxit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/styling/switch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/styling/switchery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/styling/uniform.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/tags/tagsinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/tags/tokenfield.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/validation/validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/wizards/form_wizard/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/wizards/form_wizard/form_wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/wizards/steps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/forms/wizards/stepy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/internationalization/i18next.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/loaders/blockui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/loaders/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/loaders/progressbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/maps/jvectormap/jvectormap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/maps/jvectormap/map_files/countries/germany.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/maps/jvectormap/map_files/countries/usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/maps/jvectormap/map_files/world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/media/cropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/media/fancybox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/notifications/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/notifications/jgrowl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/notifications/noty.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/notifications/pnotify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/notifications/sweet_alert.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pagination/bootpag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pagination/bs_pagination.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pagination/datepaginator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/anytime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/color/spectrum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/location/autocomplete_addresspicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/location/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/location/typeahead_addresspicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/pickadate/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/pickadate/picker.date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/pickadate/picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/pickers/pickadate/picker.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/sliders/ion_rangeslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/sliders/nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/sliders/slider_pips.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/datatables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/autofill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/buttons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/col_reorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/fixed_columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/fixed_header.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/jszip/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/key_table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/natural_sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/pdfmake/pdfmake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/pdfmake/vfs_fonts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/row_reorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/scroller.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/datatables/extensions/select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/footable/footable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/handsontable/handsontable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/tables/handsontable/languages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/trees/fancytree_all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/trees/fancytree_childcounter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/dragula.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/fab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/fullcalendar/lang/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/fullcalendar/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/headroom/headroom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/headroom/headroom_jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/moment/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/moment/moment_locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/nicescroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/prism.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/ui/ripple.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/dropzone.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/fileinput/fileinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/fileinput/plugins/purify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/fileinput/plugins/sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/plupload/plupload.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/uploaders/plupload/plupload.queue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/velocity/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/velocity/velocity.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/c3/c3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/d3/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/d3/d3_tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/d3/venn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/dimple/dimple.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/echarts/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/assets/js/plugins/visualization/sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/chrome/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/chrome/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dash_buyrequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dash_delete_subscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dash_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dash_subscribers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/dashboard_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/hpwos/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/image/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/isDSTShifted is deprecated. See http_/momentjs.com/guides/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/overlay/_base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/overlay/debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/overlay/left.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/overlay/top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/overlay/topLeftCorner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/plugins/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/sessions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/1_col.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/2_col.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/3_col_double.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/3_col_dual.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/4_col.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/components.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/glyphicons/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/fonts/icomoone627.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/css/icons/icomoon/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/backgrounds/panel_bg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/backgrounds/seamless.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/backgrounds/user_bg4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/assets/images/login_cover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/detached_left.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/detached_right.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/detached_sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/horizontal_nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/layout_boxed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/layout_fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/layout_navbar_fixed_both.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/layout_navbar_fixed_main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/starters/layout_navbar_fixed_secondary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/trident/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/xl/styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/xl/workbook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/xl/worksheets/sheet1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/zlib/deflate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/zlib/inflate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/SmoothScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.1.11.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/nivo-lightbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login-modal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signtech.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vote.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8580">
+              <caret line="390" column="9" lean-forward="false" selection-start-line="390" selection-start-column="9" selection-end-line="390" selection-end-column="9" />
+              <folding>
+                <element signature="e#18421#18532#0#PHP" expanded="false" />
+                <marker date="1538974810266" expanded="true" signature="9865:9885" ph="select * fro... images" />
+                <marker date="1538974810266" expanded="true" signature="17074:17107" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vote.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vote.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <marker date="1538647844669" expanded="true" signature="79:122" ph="UPDATE `imag... " />
+                <marker date="1538647844669" expanded="true" signature="79:123" ph="UPDATE `imag... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dashboard/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <marker date="1538974925675" expanded="true" signature="5152:5172" ph="select * fro... images" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/sessions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-modal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login-modal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1628">
+              <caret line="74" column="66" lean-forward="false" selection-start-line="74" selection-start-column="66" selection-end-line="74" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <marker date="1538639948021" expanded="true" signature="356:462" ph="INSERT INTO `users`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dash_login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/dash_login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <marker date="1538644960927" expanded="true" signature="227:274" ph="select count... users" />
+                <marker date="1538644960927" expanded="true" signature="227:275" ph="select count... users" />
+                <marker date="1538644960927" expanded="true" signature="227:297" ph="select count... users" />
+                <marker date="1538644960927" expanded="true" signature="227:307" ph="select count... users" />
+                <marker date="1538644960927" expanded="true" signature="227:308" ph="select count... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d</find>
+      <find>db</find>
+      <find>db.</find>
+      <find>db.p</find>
+      <find>db.php</find>
+      <find>3,450</find>
+      <find>contac</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dashboard/dash_login.php" />
+        <option value="$PROJECT_DIR$/layout/db.php" />
+        <option value="$PROJECT_DIR$/dashboard/dashboard_header.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
+        <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/login-modal.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/vote.js" />
+        <option value="$PROJECT_DIR$/vote.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/dashboard/dashboard.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signtech" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signtech" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="dash&#9;FILE&#9;file://C:/xampp/htdocs/signtech/dashboard/dashboard.php&#10;index&#9;FILE&#9;file://C:/xampp/htdocs/signtech/index.php&#10;login&#9;FILE&#9;file://C:/xampp/htdocs/signtech/login.php&#10;logou&#9;FILE&#9;file://C:/xampp/htdocs/signtech/dashboard/logout.php&#10;reg&#9;FILE&#9;file://C:/xampp/htdocs/signtech/register.php&#10;contact&#9;FILE&#9;file://C:/xampp/htdocs/signtech/js/contact_me.js&#10;contact.php&#9;FILE&#9;file://C:/xampp/htdocs/signtech/mail/contact_me.php&#10;db.php&#9;FILE&#9;file://C:/xampp/htdocs/signtech/layout/db.php&#10;dashboard&#9;FILE&#9;file://C:/xampp/htdocs/signtech/dashboard/dashboard.php" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../edustoke" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41032f3-213e-4ecb-a58c-ebb6e9a433e4" name="Default" comment="" />
+      <created>1538627667146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538627667146</updated>
+      <workItem from="1538627668822" duration="5365000" />
+      <workItem from="1538636710213" duration="10474000" />
+      <workItem from="1538971985736" duration="3549000" />
+      <workItem from="1539247002336" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="390" column="9" lean-forward="true" selection-start-line="390" selection-start-column="9" selection-end-line="390" selection-end-column="9" />
+          <folding>
+            <element signature="e#18421#18532#0#PHP" expanded="false" />
+            <marker date="1538974810266" expanded="true" signature="9865:9885" ph="select * fro... images" />
+            <marker date="1538974810266" expanded="true" signature="17074:17107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1538647844669" expanded="true" signature="79:122" ph="UPDATE `imag... " />
+            <marker date="1538647844669" expanded="true" signature="79:123" ph="UPDATE `imag... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="66" lean-forward="false" selection-start-line="74" selection-start-column="66" selection-end-line="74" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1538639948021" expanded="true" signature="356:462" ph="INSERT INTO `users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dash_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1538644960927" expanded="true" signature="227:274" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:275" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:297" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:307" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:308" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1538974925675" expanded="true" signature="5152:5172" ph="select * fro... images" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4774">
+          <caret line="217" column="0" lean-forward="false" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
+          <folding>
+            <element signature="e#18421#18532#0#PHP" expanded="false" />
+            <marker date="1538974810266" expanded="true" signature="9865:9885" ph="select * fro... images" />
+            <marker date="1538974810266" expanded="true" signature="17074:17107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1538647844669" expanded="true" signature="79:122" ph="UPDATE `imag... " />
+            <marker date="1538647844669" expanded="true" signature="79:123" ph="UPDATE `imag... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="66" lean-forward="false" selection-start-line="74" selection-start-column="66" selection-end-line="74" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1538639948021" expanded="true" signature="356:462" ph="INSERT INTO `users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <marker date="1538644960927" expanded="true" signature="227:274" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:275" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:297" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:307" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:308" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="76" lean-forward="false" selection-start-line="125" selection-start-column="76" selection-end-line="125" selection-end-column="76" />
+          <folding>
+            <marker date="1538974925675" expanded="true" signature="5152:5172" ph="select * fro... images" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dash_subscribers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="36" />
+          <folding>
+            <marker date="1538974925675" expanded="true" signature="5152:5172" ph="select * fro... images" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dash_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="199" column="63" lean-forward="false" selection-start-line="199" selection-start-column="63" selection-end-line="199" selection-end-column="63" />
+          <folding>
+            <element signature="e#18421#18532#0#PHP" expanded="false" />
+            <marker date="1538974810266" expanded="true" signature="9865:9885" ph="select * fro... images" />
+            <marker date="1538974810266" expanded="true" signature="17074:17107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dash_subscribers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1538647844669" expanded="true" signature="79:122" ph="UPDATE `imag... " />
+            <marker date="1538647844669" expanded="true" signature="79:123" ph="UPDATE `imag... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1538644960927" expanded="true" signature="227:274" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:275" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:297" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:307" ph="select count... users" />
+            <marker date="1538644960927" expanded="true" signature="227:308" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="66" lean-forward="false" selection-start-line="74" selection-start-column="66" selection-end-line="74" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1538639948021" expanded="true" signature="356:462" ph="INSERT INTO `users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dash_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="390" column="9" lean-forward="false" selection-start-line="390" selection-start-column="9" selection-end-line="390" selection-end-column="9" />
+          <folding>
+            <element signature="e#18421#18532#0#PHP" expanded="false" />
+            <marker date="1538974810266" expanded="true" signature="9865:9885" ph="select * fro... images" />
+            <marker date="1538974810266" expanded="true" signature="17074:17107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1538974925675" expanded="true" signature="5152:5172" ph="select * fro... images" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
